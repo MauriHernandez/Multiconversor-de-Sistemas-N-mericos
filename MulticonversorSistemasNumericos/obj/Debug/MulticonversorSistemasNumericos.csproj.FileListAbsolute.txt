@@ -1,0 +1,7 @@
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\bin\Debug\MulticonversorSistemasNumericos.dll.config
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\bin\Debug\MulticonversorSistemasNumericos.dll
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\bin\Debug\MulticonversorSistemasNumericos.pdb
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\obj\Debug\MulticonversorSistemasNumericos.csproj.AssemblyReference.cache
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\obj\Debug\MulticonversorSistemasNumericos.csproj.CoreCompileInputs.cache
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\obj\Debug\MulticonversorSistemasNumericos.dll
+C:\Users\mcarl\source\repos\MulticonversorSistemasNumericos\obj\Debug\MulticonversorSistemasNumericos.pdb

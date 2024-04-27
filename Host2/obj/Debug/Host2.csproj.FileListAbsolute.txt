@@ -1,0 +1,11 @@
+C:\Users\mcarl\source\repos\Host2\bin\Debug\Host2.exe.config
+C:\Users\mcarl\source\repos\Host2\bin\Debug\Host2.exe
+C:\Users\mcarl\source\repos\Host2\bin\Debug\Host2.pdb
+C:\Users\mcarl\source\repos\Host2\bin\Debug\MulticonversorSistemasNumericos.dll
+C:\Users\mcarl\source\repos\Host2\bin\Debug\MulticonversorSistemasNumericos.pdb
+C:\Users\mcarl\source\repos\Host2\bin\Debug\MulticonversorSistemasNumericos.dll.config
+C:\Users\mcarl\source\repos\Host2\obj\Debug\Host2.csproj.AssemblyReference.cache
+C:\Users\mcarl\source\repos\Host2\obj\Debug\Host2.csproj.CoreCompileInputs.cache
+C:\Users\mcarl\source\repos\Host2\obj\Debug\Host2.csproj.Up2Date
+C:\Users\mcarl\source\repos\Host2\obj\Debug\Host2.exe
+C:\Users\mcarl\source\repos\Host2\obj\Debug\Host2.pdb

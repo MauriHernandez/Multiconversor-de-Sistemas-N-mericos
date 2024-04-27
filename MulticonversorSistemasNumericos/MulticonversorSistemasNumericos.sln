@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticonversorSistemasNumericos", "MulticonversorSistemasNumericos.csproj", "{284AB1A1-20D7-4F6F-A6AF-C600A2EBD47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host2", "..\Host2\Host2.csproj", "{64B81BAA-C552-4B0D-9B27-1EB2B58F9C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284AB1A1-20D7-4F6F-A6AF-C600A2EBD47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284AB1A1-20D7-4F6F-A6AF-C600A2EBD47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284AB1A1-20D7-4F6F-A6AF-C600A2EBD47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284AB1A1-20D7-4F6F-A6AF-C600A2EBD47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B81BAA-C552-4B0D-9B27-1EB2B58F9C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B81BAA-C552-4B0D-9B27-1EB2B58F9C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B81BAA-C552-4B0D-9B27-1EB2B58F9C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B81BAA-C552-4B0D-9B27-1EB2B58F9C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D256D68A-1C91-4AB4-9960-7B90CFDF4AB3}
+	EndGlobalSection
+EndGlobal
